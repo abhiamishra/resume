@@ -95,6 +95,13 @@ require("lua/parser.lua")
   \resumeSubHeadingListStart
 	\directlua{printEduItems("_data/edu.json")}
   \resumeSubHeadingListEnd
+  
+  % Print Achievements
+%-------------------------------------------
+\section{{Achievements}}
+  \resumeSubHeadingListStart
+    \directlua{printProjItems("_data/achieve.json")}
+  \resumeSubHeadingListEnd
 
 % Print Experience
 %-------------------------------------------
@@ -102,17 +109,10 @@ require("lua/parser.lua")
   \resumeSubHeadingListStart
   	\directlua{printExpItems("_data/exp.json")}
   \resumeSubHeadingListEnd
-
-% Print Projects
-%-------------------------------------------
-\section{{Achievements}}
-  \resumeSubHeadingListStart
-    \directlua{printProjItems("_data/achieve.json")}
-  \resumeSubHeadingListEnd
   
 % Print Skills
 %-------------------------------------------
-\section{Programming Skills}
+\section{ Skills}
   \resumeSubHeadingListStart 
     \item{
       \textbf{Programming Languages}{: \directlua{printList("_data/personal.json", "languages", "language")}}

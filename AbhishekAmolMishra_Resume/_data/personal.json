@@ -16,13 +16,13 @@
                 "language": "R"
             },
             {
-                "language": "Javascipt"
+                "language": "JavaScipt"
             },
             {
                 "language": "C++"
             },
             {
-                "language": "Typescript"
+                "language": "TypeScript"
             },
             {
                 "language": "Unix"
@@ -71,7 +71,7 @@
         ],
         "coursework":[
         	{
-            	"class" : "Data Struc. and Algo."
+            	"class" : "Data Structures and Algorithms"
             },
             {
             	"class" : "Linear Algebra"
