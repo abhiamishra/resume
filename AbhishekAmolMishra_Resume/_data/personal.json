@@ -1,0 +1,101 @@
+[
+    {
+        "name": "Abhishek A. Mishra",
+        "website": "https://abhiamishra.github.io/",
+        "email": "abhiamishra0@gmail.com",
+        "phone": "+1-313-913-6629",
+        "linkedin":"https://www.linkedin.com/in/abhishek-mishra-1322641ab/",
+        "languages": [
+            {
+                "language": "Java"
+            },
+            {
+                "language": "Python"
+            },
+            {
+                "language": "R"
+            },
+            {
+                "language": "Javascipt"
+            },
+            {
+                "language": "C++"
+            },
+            {
+                "language": "Typescript"
+            },
+            {
+                "language": "Unix"
+            },
+            {
+                "language": "Node.js"
+            }
+        ],
+        "frameworks": [
+            {
+                "framework": "ShinyR"
+            },
+            {
+                "framework": "ggplot2"
+            },
+            {
+                "framework": "tidyverse"
+            },
+            {
+                "framework": "dplyr"
+            },
+            {
+                "framework": "knitr"
+            },
+            {
+                "framework": "XGBOOST"
+            },
+            {
+                "framework": "Caret"
+            },
+            {
+                "framework": "Pandas"
+            },
+            {
+            	"framework":"Matplotlib"
+            },
+            {
+                "framework": "Git"
+            },
+            {
+                "framework": "Linux"
+            },
+            {
+                "framework": "Firebase"
+            }
+        ],
+        "coursework":[
+        	{
+            	"class" : "Data Struc. and Algo."
+            },
+            {
+            	"class" : "Linear Algebra"
+            },
+            {
+            	"class" : "Probability and Statistics"
+            },
+            {
+            	"class" : "UNIX"
+            },
+            {
+            	"class" : "Java"
+            }
+        ],
+        "mediums":[
+        	{
+            	"medium" : "English"
+            },
+            {
+            	"medium" : "Hindi"
+            },
+            {
+            	"medium" : "Spanish"
+            }
+        ]
+    }
+]
