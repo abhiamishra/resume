@@ -16,7 +16,7 @@
                 "language": "R"
             },
             {
-                "language": "JavaScipt"
+                "language": "JavaScript"
             },
             {
                 "language": "C++"
@@ -33,25 +33,19 @@
         ],
         "frameworks": [
             {
-                "framework": "ShinyR"
-            },
-            {
-                "framework": "ggplot2"
-            },
-            {
                 "framework": "tidyverse"
             },
             {
                 "framework": "dplyr"
             },
             {
-                "framework": "knitr"
-            },
-            {
                 "framework": "XGBOOST"
             },
             {
-                "framework": "Caret"
+                "framework": "Git"
+            },
+            {
+                "framework": "OpenCV"
             },
             {
                 "framework": "Pandas"
@@ -60,13 +54,31 @@
             	"framework":"Matplotlib"
             },
             {
-                "framework": "Git"
-            },
-            {
                 "framework": "Linux"
             },
             {
                 "framework": "Firebase"
+            },
+            {
+                "framework": "FastAPI"
+            },
+            {
+                "framework": "Alembic"
+            },
+            {
+                "framework": "SQLAlchemy"
+            },
+            {
+                "framework": "knitr"
+            },
+            {
+                "framework": "ShinyR"
+            },           
+            {
+                "framework": "ggplot2"
+            },
+            {
+                "framework": "Caret"
             }
         ],
         "coursework":[
